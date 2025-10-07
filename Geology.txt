@@ -1,0 +1,135 @@
+BFDI 3 6:33-7:04 Rain exists
+BFDI 3 7:04 The rain stopped.
+BFDI 5 0:34-0:40/1:20-1:25→Needle’s cake causes strong wind currents. Probably due to convection currents
+BFDI 5 4:12-4:22 The gorge is blue and there are clouds
+BFDI 5 6:12-6:14 The sky changes color
+BFDI 11 3:01-3:06 Day and night (There may be cuts between the day and night)
+BFDI 11 3:12 TB can fall trough the cloud
+BFDI 13 7:51-7:57
+BFDI 15 3:22-3:24 The cloth seeems to move on it's own(maybe it's wind)
+BFDI 19 0:25-0:28
+BFDI 22 Vulcanos exist
+BFDI 22 5:24-5:51 Vulcano eruption
+BFDIA 2 4:54-5:02
+BFDIA 2 7:00-8:17
+BFDIA 2 11:09-11:19
+BFDIA 3 1:29-1:30 The plains got darker
+BFDIA 4 2:37-2:38
+BFDIA 5a 4:32-4:39 Wind
+BFDIA 5c 0:05-0:17 The cloud rains basketballs
+BFDIA 5c 2:39
+BFDIA 5e 6:43 The ground in Yoyleland is purple and the sky is yellow
+BFDIA 6 19:36-19:52
+BFDIA 7 0:12-0:14 Snow(Maybe not canon)
+BFDIA 7 2:04-2:10
+BFDIA 9 25:01-25:08
+BFDIA 11 0:34-0:38/3:04-3:06 Wind  
+BFDIA 13 7:36-7:50
+BFDIA 16 14:44-14:49
+BFDIA 16 17:53-17:56
+BFDIA 16 21:49-21:51(Noctiluca yoyleaned)
+BFDIA 17 19:57-20:03/21:11-21:16
+BFDIA 17 20:31-20:33
+BFDIA 18 6:13-6:32
+BFDIA 20 7:14-7:28/8:03-8:04
+BFDIA 20 9:42-9:47
+BFDIA 20 14:49-14:53
+BFDIA 20 17:38 (Realy Wierd Planet in the Orion Nebula)
+BFDIA 21 1:06-1:17 Hear what the radio is saying. If you can't understand it, trun on subtitles
+BFDIA 21 10:58-11:00
+BFDIA 22 5:22-5:36
+BFDIA 22 7:25-7:27/9:11-9:13/9:52-9:56/13:55-14:07/18:43-18:52/20:39-20:45/21:54-22:01/22:10-22:13/22:15-22:17/22:20-22:31/22:34-22:36/22:40-22:43/22:46-22:49/23:12-23:17/23:20-23:25/24:57-24:59/25:10-25:12/25:24-25:34/25:34-25:36/25:52/30:10-30:22/30:57-30:59/33:11-33:15/33:18-33:28/33:33-33:57/35:00-35:03/35:45-35:46/36:11-36:14/36:29-36:31/36:37-37:11/37:23-37:28/37:30-38:47/38:51-39:04 (Also put this in sound, materials amd thechnology)
+BFDIA 22 14:35-14:44
+BFDIA 22 17:35-19:08
+BFDIA 22 19:08-20:39
+BFDIA 22 26:08-26:15
+BFDIA 22 29:32-30:02/30:22-30:30/32:01-32:26
+BFDIA 22 30:26-30:30
+
+
+IDFB 1 3:46-3:53
+
+BFB 1 9:05-9:20
+BFB 1 20:53-21:11
+BFB 9 4:53-4:56
+BFB 13 7:50-8:02
+BFB 13 12:26
+BFB 13 13:17-22:33/BFB 14 0:00-0:07/0:27-2:48/3:35-4:40/5:43-11:44/12:25-22:43
+BFB 16 9:07
+BFB 19 3:36-3:43
+BFB 24 11:13-11:20/11:32-11:45/12:01-12:04
+BFB 25 1:49-1:53
+BFB 26 7:37-7:38
+BFB 28 5:37-5:57
+BFB 28 11:31-11:37 (4)
+g (4)
+BFB 30 3:03-3:05
+BFB 29 8:24-8:30(4)
+BFB 29 23:25-23:43 (4)
+BFB 30 1:35-2:08 (4)
+BFB 30 16:52-17:03 (4)
+BFB 30 20:56-21:19 (4)
+BFB 30 22:16-22:33 (4)
+BFB 30 23:05-23:10 (4)
+BFB 30 24:42-24:52 (4)
+BFB 30 26:22-26:30 (4)
+BFB 30 27:56-28:10 (4)
+BFB 30 31:54-32:01 (4)
+BFB 30 38:57-40:11 The sky is orange
+TPOT 4 9:51-9:58
+TPOT 4 14:33
+TPOT 4 15:10-15:24
+TPOT 5 4:03-4:18
+TPOT 5 6:56 The sky changes color
+TPOT 5 10:43-10:51
+TPOT 5 10:43-10:51 Winner Clock, Ice Cube, Rocky and Bottle die in the lava
+TPOT 5 11:00-11:03
+TPOT 5 11:08-11:13
+TPOT 5 11:20-11:36/15:02-15:05
+TPOT 5 16:35-16:38
+TPOT 6 13:10-13:15
+TPOT 7 0:44-0:49
+TPOT 7 17:43-17:54
+TPOT 8 4:42-4:45/5:05
+TPOT 9 13:38-14:03
+TPOT 12 0:50-3:10
+TPOT 12 4:59 (Maybe not canon)
+TPOT 12 23:54-23:59
+TPOT 13 0:00-0:34/1:28-3:18 (Maybe One caused the storm or maybe not
+TPOT 13 17:15-17:53
+TPOT 13 26:50-27:31
+TPOT 14 10:15
+TPOT 14 17:17-18:44
+TPOT 14 20:17-20:47
+TPOT 14 24:55-24:59
+TPOT 15 0:54-1:02
+TPOT 15 3:28-3:49
+TPOT 15 17:33-17:35
+BFDI Mini Replicas 4:42-5:15
+BFDI Mini Replicas 5:19-5:22
+BFDI Mini Natural 2:59-3:03
+BFDI Mini Natural 3:54-3:57
+TPOT 19 2:35-2:44
+
+
+Yoyelite
+BFDIA 7 2:10-2:12
+BFDIA 7 2:30-2:32
+BFDIA 9 0:44-0:46/1:07-1:25/1:27-1:35
+BFDIA 10 18:36-18:41
+BFDIA 12 12:39-12:55
+BFDIA 14 1:28-1:36
+BFDIA 17 14:35-14:50
+BFDIA 17 19:31-19:34
+BFDIA 17 25:25-25:40
+BFDIA 18 18:12-18:20
+TPOT 15 1:59-2:05
+TPOT 15 12:40
+TPOT 15 13:48-14:01
+TPOT 15 15:31 There is no damage in the ground
+TPOT 15 17:52-17:54
+TPOT 15 32:07-32:36
+TPOT 15 37:13-37:27
+
+
+

@@ -1,0 +1,106 @@
+BFDI 1a 3:08-3:10 Sun rays
+BFDI 5 4:48-4:51 →Camera is blurred
+BFDI 12 6:51-6:57
+BFDI 15 2:53-2:58 Things look darker inside the TLC but we it isn't pitch black
+BFDI 15 4:14- We can see this scene from the side and see below the top part of the vomit. The camera may be partialy under the vomit and stil recive light or it outside the barf bag an the light can pass trough walls
+BFDI 16 2:44-2:45 Things appear darker when the wall falls
+BFDI 18 10:39-10:44
+BFDIA 1 3:47 The platform reflects the objects
+BFDIA 4 3:30-3:31
+BFDIA 6 16:18-16:32
+BFDIA 7 12:11-12:14
+BFDIA 8 1:46-1:51
+BFDIA 8 9:43-9:59
+BFDIA 8 16:38-16:58
+BFDIA 9 12:39-12:48
+BFDAI 9 26:38-27:05 ?
+BFDIA 11 0:29-0:33
+BFDIA 11 8:33-8:39
+BFDIA 12 9:06-9:13
+BFDIA 13 16:47-17:10
+BFDIA 14 25:30
+BFDIA 14 33:04-33:06
+BFDIA 16 10:23-10:32
+BFDIA 16 21:53-21:56
+BFDIA 17 9:50
+BFDIA 17 19:15-19:34
+BFDIA 17 23:50 In this scene, we see two diferent locations at diferent times.
+BFDIA 18 1:36-1:45
+BFDIA 19 22:44
+BFDIA 19 8:01
+BFDIA 21 8:47 
+
+
+BFB 14 6:41 Water drop
+BFB 29 6:40
+BFB 30 9:10-9:30
+TPOT 7 8:20-8:23
+TPOT 16 33:14-33:17
+TPOT 17 0:03-0:39
+TPOT 17 0:39-0:44
+TPOT 17 10:32-10:45
+TPOT 19 3:31-3:37 Firey light and water reflection
+TPOT 19 3:41-3:49
+TPOT 19 12:26
+TPOT 19 18:56-19:29
+TPOT 19 34:10-34:17
+TPOT 19 35:35-36:11
+
+Shadows (not a comprehensive list)
+BFDI 3 0:00-0:07
+BFDI 3 0:16-0:36
+BFDI 6 3:20
+BFDI 21 7:06
+BFDIA 1 1:23-1:27
+BFDIA 1 3:32-3:33
+BFDIA 1 4:27-4:30 There is only one shadow
+BFDIA 2 1:14 Only Puffball has a shadow again maybe it's just a dark circle in the ground
+BFDIA 2 3:48-3:56 Puffball's shadow growns with her
+BFDIA 2 4:08-4:12
+BFDIA 4 2:17-2:19
+BFDIA 4 3:33-3:34
+BFDIA 5a 10:20-10:33 Pin has a shadow
+BFDIA 8 8:09-
+BFDIA 14 7:39-7:48
+BFDIA 14 8:09-8:13
+BFDIA 15 9:26-9:29
+BFDIA 15 14:40-15:04
+BFDIA 16 0:02-0:16
+BFDIA 16 1:07-1:10
+BFDIA 17 11:51-11:54
+BFDIA 17 27:25-27:31
+BFDIA 18 15:25-15:29
+BFDIA 19 4:21-4:24 
+BFDIA 19 11:53-11:56
+BFDIA 20 4:17-4:19
+BFDIA 21 2:55-3:01
+BFDIA 21 3:10-3:14
+BFDIA 21 5:41-5:43
+BFDIA 21 14:27-14:34
+BFDIA 22 1:19-1:20
+BFDIA 22 2:20-2:26
+BFDIA 22 12:31-12:34
+
+IDFB 1 1:04
+IDFB 1 4:19-4:34
+
+BFB 8 1:29-1:33
+BFB 10 4:06
+BFB 12 5:34-5:44
+BFB 14 5:31-5:34
+BFB 14 18:23-18:25
+BFB 19 2:29-2:30
+BFB 19 5:24-6:12
+BFB 19 7:05-7:11
+BFB 20 6:35-6:59
+BFB 20 7:11-7:20/7:26-7:30
+BFB 21 2:06-2:11
+BFB 21 18:31-18:41
+BFB 22 0:00-0:03 (Maybe not canon)
+BFB 26 13:21-13:24
+BFB 27 10:07-10:09
+TPOT 2 8:12
+TPOT 6 0:45
+BFDI Mini Delcious 1:22
+TPOT 17 7:27-7:33
+

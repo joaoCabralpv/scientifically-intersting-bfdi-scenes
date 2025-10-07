@@ -1,0 +1,139 @@
+BFDI 1b 4:17-4:20
+BFDI 2 The path appears
+BFDI 3 4:51
+BFDI 4 4:53-5:01 Cyanide jar, “tip” jar and price sign
+BFDI 4 5:06-5:10
+BFDI 4 5:14-5:17
+BFDI 10 2:14 
+BFDI 10 5:32
+BFDI 12 3:30-3:36
+BFDI 13 0:29-0:31 The floor, Ice Cube, Firey, Boote, Scissors, American Flag and the water weren't there at 0:29 but appear at 0:30
+BFDI 14 1:08
+BFDI 17 The ICRC2.0 created Ice Cube
+BFDI 18 6:41-6:42 Lock
+BFDI 19 3:31-3:33 Arrow
+BFDI 19 4:55 Announcer's diary
+BFDI 20 3:58
+BFDI 22 1:49
+BFDIA 2 2:24
+BFDIA 3 1:48-1:51
+BFDIA 5c 1:42-1:52 Yellow button
+BFDIA 5c 2:04-2:08
+BFDIA 5d 0:20
+BFDIA 5d 1:03
+BFDIA 5d 1:16
+BFDIA 5e 11:17-11:22
+BFDIA 6 24:23
+BFDIA 6 24:27
+BFDIA 6 24:32
+BFDIA 7 12:31 A bunch of white stuff appeared after Golf Ball was glued to the tree
+BFDIA 21 8:53-8:55
+BFDIA 21 9:07-9:19
+
+BFB 7 3:26-3:27
+BFB 7 4:12
+BFB 18 4:51-5:09 Bricks
+
+From characters
+BFDI 12 4:50
+BFDI 14 6:50
+BFDI 15 1:50 Anouncer has this tray and it comes out of thin air.
+BFDI 16 2:57-3:01 Anouncer has multiple tray and they come out of thin air.
+BFDI 17 0:005(Leafy)
+BFDI 19 2:33 (Anouncer)
+BFDI 19 4:07-4:08/4:12-4:13/4:48(Anouncer)
+BFDI 19 4:37-4:38(David)
+BFDI 20 3:13-3:14(Announcer)
+BFDI 23 2:31-2:33
+BFDI 2:56 (Announcer)
+BFDI 25 4:02 (David)
+BFDIA 2 8:20 (Gelatin)
+BFDIA 2 8:52
+BFDIA 3 1:24 (Pufball speaker box)
+BFDIA 3 6:37 (Geleatin)
+BFDIA 4 2:30 (Pencil)
+BFDIA 4 2:34
+BFDIA 4 6:48 (Pufball SB)
+BFDIA 4 4:24 (Pin(Big))
+BFDIA 5a 5:27 (Firey)
+BFDIA 5a 7:06 (FSB)
+BFDIA 5c 5:10
+BFDIA 5c 5:30-5:35 (Book)
+BFDIA 5d 7:28 (Ruby)
+BFDIA 5d 7:29-7:46 Snowball appear from Ruby, Book and Match. Then the snow in the ground increases without anyone throwing snow
+BFDIA 5e (Match)
+BFDIA 5e 6:34 (Pencil)
+BFDIA 6 28:57 (Book)
+BFDIA 7 0:53 (FSB)
+BFDIA 7 2:42 (FSB)
+BFDIA 7 3:09 (Needle)
+BFDIA 7 4:41-5:23 (FSB)
+BFDIA 7 5:38 (FSB)
+BFDIA 7 9:39
+BFDIA 7 11:38
+BFDIA 7 12:26
+BFDIA 7 12:30
+BFDIA 7 13:50 (Book)
+BFDIA 7 15:02 (Yellow Face)
+BFDIA 7 18:15-18:17
+BFDIA 8 0:27 (FSB)
+BFDIA 8 3:21 (FSB)
+BFDIA 8 9:15
+BFDIA 8 10:17-10:18 (Barbecue Sauce)
+BFDIA 8 12:46
+BFDIA 8 15:47(Yellow Face)
+BFDIA 9 7:17 (PFB)
+BFDIA 9 7:33 (Yellow Face)
+BFDIA 9 21:08
+BFDIA 9 24:08 (Ice Cube)
+BFDIA 9 25:41 (PSB)  
+BFDIA 10 6:38 (Tennis Ball)
+BFDAI 10 12:07 (Needle)
+BFDIA 10 14:32-14:37 (Pencil)
+BFDIA 11 9:34 (Golf Ball)
+BFDIA 11 9:55 (Bomby)
+BFDIA 11 10:42 (Bomby)
+BFDIA 11 11:09 (Tennis Ball)
+BFDIA 11 15:23 (Tennis Ball)
+BFDIA 12 8:00 (Bomby)
+BFDIA 12 10:52 (Poo)
+BFDIA 12 11:25
+BFDIA 12 12:40 (Golf Ball)
+BFDIA 13 5:55 (Gelatin)
+BFDIA 13 8:30 (Tennis Ball)
+BFDIA 17 10:27 (Nickel)
+BFB 1 1:33 (Remote)
+BFB 1 12:17 (4) 
+BFB 5 3:18 (4)
+BFB 5 3:43 (Pen(Ben))
+BFB 7 1:15 (Lightning)
+BFB 7 6:32 (Basketball)
+BFB 10 5:33 (Eraser)
+BFB 11 1:31 (Bracelety)
+BFB 12 5:42 (Golf Ball)
+BFB 13 4:34 (4)
+BFB 13 6:49 (Fries)
+BFB 13 9:14 (Golf Ball)
+
+Things dissapearing
+BFDI 15 4:51-4:52 whipped cream bottle
+BFDI 20 4:05
+BFDI 20 4:23-4:33
+BFDI 20 4:37
+BFDI 20 4:36
+BFDI 22 3:27-3:29
+BFDI 24 2:38-2:51 Dead anouncer dissapears
+BFDI 24 6:08-6:11
+BFDI 24 11:43-11:48
+BFDIA 5a 5:08-5:12
+BFDIA 5c 2:16-2:18 Things on top of evil leafy
+BFDIA 5d 6:37-6:39
+BFDIA 5d 6:58-7:01
+BFDIA 5d 8:34 Seringe
+BFDIA 7 15:18-15:19
+BFDIA 8 1:04 (Book)
+BFDIA 11 0:33-0:34 (Jack)
+BFDIA 20 3:19
+BFB 22 9:40
+BFDI Mini Deluxe 2:24
+

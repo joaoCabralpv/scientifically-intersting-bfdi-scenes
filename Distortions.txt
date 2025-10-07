@@ -1,0 +1,114 @@
+Objects
+BFB 7 4:39
+BFB 9 4:24-4:37
+BFB 9 6:07-6:12
+
+
+Character distortions
+BFDI 1a 1:51-1:52(Eraser)
+BFDI 1a 4:15(Coiny)
+BFDI 1a 5:02(Leafy)
+BFDI 1b 4:53 (GB)
+BFDI 2 2:12 (Leafy)  
+BFDI 2 3:27-3:33 (Pin)
+BFDI 4 0:28-0:31
+BFDI 4 5:11-5:13
+BFDI 8 0:36
+BFDI 8 0:52
+BFDI 8 1:14
+BFDI 8 1:16
+BFDI 8 1:20
+BFDI 8 1:27-1:29
+BFDI 8 2:05-2:06
+BFDI 8 3:20-3:23
+BFDI 8 3:23-3:24
+BFDI 8 3:29-3:30
+BFDI 8 3:32-3:34
+BFDI 8 4:02
+BFDI 8 4:19-2:23
+BFDI 8 4:43-4:45
+BFDI 8 4:57-4:58
+BFDI 8 5:09
+BFDI 8 5:40-5:42
+BFDI 8 6:40-6:41
+BFDI 8 5:06-7:07
+BFDI 9 0:03 The book also shears
+BFDI 9 1:25
+BFDI 9 1:54
+BFDI 9 2:02-2:03
+BFDI 9 2:50-2:54 The poseter also shears
+BFDI 9 3:02-3:05
+BFDI 9 3:12-3:16
+BFDI 9 3:22
+BFDI 9 3:43-3:34
+BFDI 9 3:50-3:34
+BFDI 9 3:55
+BFDI 9 4:12
+BFDI 9 4:28-4:30
+BFDI 9 4:33
+BFDI 9 4:53
+BFDI 9 4:59-5:04
+BFDI 9 5:07
+BFDI 9 7:14
+BFDI 11 0:05(TB)
+BFDI 12 3:46-3:48
+BFDI 13 1:41 (Bubble)
+BFDI 14 1:34  (Pencil,Bubble,Leafy,Pen,Ereaser,Blocky,Firey)
+BFDI 15 1:52 (Rocky,Spongy,Buuble,Pencil,Pen,Blocky,TB)
+BFDI 18 0:05 (GB)
+BFDI 22 0:44 (Bubble(Metal))
+BFDI 22 1:35 (Flower speaker box)
+BFDI 22 1:51 (Firey speaker box)
+BFDIA 3 1:03-1:05 (Pufball speaker box)
+BFDIA 4 5:39-5:42
+BFDIA 5a 3:02-3:10 (Leafy(Meal)
+BFDIA 5a 13:11-13:19 (Coiny)
+BFDIA 5c 4:31-4:26 (Spongy)
+BFB 5 3:26-3:28
+BFB 5 8:31-8:35 (Stapy)
+BFB 7 2:52-2:54 (Coiny,Pin,Clock,Needle,Eggy,Cake,Coiny,Firey)
+BFB 7 3:07-3:09 (Donut)
+BFB 7 8:23-8:24 (Remote)
+BFB 8 10:14-10:19 (Match)
+BFB 8 0:01 (Stapy)
+BFB 9 1:55-2:02/2:22-2:36 (X)
+BFB 9 2:49-2:51
+BFB 9 5:32-5:37
+BFB 10 6:06-6:09 (Black Hole)
+BFB 11 0:00-0:01 (Liy)
+BFB 11 3:56-3:57 (Fanny)
+BFB 12 4:30-4:34
+BFB 12 7:04-7:08 (Naily)
+BFB 12 8:55-9:04 (Pin(Lightning's mind))
+
+Big character distortions
+BFDI 13 3:02-3:05 (Match)
+BFDI 14 2:02-2:15
+BFDI 17 0:06(Bubble)
+BFDI 17 1:46-1:50 (TB)
+BFDIA 4 1:36-1:39 (Book)
+BFDIA 4 2:59-3:00
+BFDIA 5d 6:02 (Gelatin and Firey)
+BFDIA 6 21:54 (Firey,Gelatin,Fires,Golf Ball, Tennis Ball)
+BFDIA 7 11:30 (Nickel,Coiny,Needle,Pin,Spongy,Yellow Face)
+BFDIA 9 8:34 (Bomby)
+BFDIA 10 12:33 (Neeedle)
+BFDIA 16 4:40 (Pencil,Book,Needle,Coiny,Pin,Tennis Ball, Nickel,Fries)
+BFDIA 18 5:43 (Needle,Coiny,Firey,Tennis Ball,Gelatin,Fries,Ice Cube,Ruby,Pin,Pencil,Book,Contest Wheel(I know the contest wheel isn't alive but whatever)
+BFB 3 4:35-4:39
+BFB 6 5:36 (Golf Ball, Tennis Ball, Blocky,Grassy, 8-Ball, TV, Basketball, Robot Flower)
+BFB 7 2:52 (Loser)
+BFB 7 3:13-3:15 (Ruby)
+BFB 7 3:19-3:23 (Fries)
+BFB 7 3:26-3:27 (Flower)
+BFB 8 4:31 (8-Ball)
+BFB 8 4:42-4:48
+BFB 9 1:20 (X)
+BFB 10 0:00 (X)
+BFB 10 2:59-3:01 (Clock)
+BFB 10 6:10-6:13
+BFB 11 4:09 (Bubble)
+BFB 11 4:10-4:14
+BFB 12 9:47-9:52 (Firey Jr.)
+BFB 13 4:19-4:31
+BFB 13 15:26 (TV,Robot Flower,Tennis Ball, Basketball, Golf Ball, Grassy, Blocky)
