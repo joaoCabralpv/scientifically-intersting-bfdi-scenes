@@ -70,3 +70,5 @@ TPOT 11 11:11-11:32 Even morest waves
 TPOT 13 31:37-31:58 Even morester waves
 TPOT 17 18:09-18:11 Not waves
 TPOT 19 16:19-16:40
+BFDI Mini Resort 9:14-9:16
+

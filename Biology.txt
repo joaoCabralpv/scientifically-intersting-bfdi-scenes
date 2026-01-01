@@ -196,7 +196,7 @@ BFB 16 7:02-7:04
 BFB 16 8:15-8:27/8:48 
 BFB 18 0:27-0:30 
 BFB 18 9:21-9:29
-
+BFDI Mini Resort 0:26-0:27
 
 Bubble 
 BFDI 19 5:13 Buuble makes a wierd face and has teeth
@@ -1907,6 +1907,9 @@ TPOT 11 20:00-20:08
 7(Seven)
 TPOT 15 27:59-28:02
 
+9(Nine)
+BFDI Mini Resort 0:27-0:29
+
 Ean
 TPOT 15 36:46-36:49
 
@@ -2117,6 +2120,41 @@ Beehive
 BFDI Mini Natural 7:16-7:23
 BFDI Mini Natural 8:12-8:14
 
+Sandcastle
+BFDI Mini Resort 1:06
+BFDI Mini Resort 1:34-1:36
+
+Diving Board
+BFDI Mini Resort 1:52-2:06
+
+Watermelon Slice
+BFDI Mini Resort 2:55-2:57
+BFDI Mini Resort 6:39-6:42
+BFDI Mini Resort 7:17
+BFDI Mini Resort 8:25-8:27
+
+Beach Ball
+BFDI Mini Resort 3:04-3:07
+BFDI Mini Resort 3:50-3:54/4:02-4:04
+BFDI Mini Resort 4:29-4:32
+BFDI Mini Resort 9:35-9:37
+BFDI Mini Resort 9:47-9:50
+
+Sunscreen
+BFDI Mini Resort 4:46-4:49
+BFDI Mini Resort 9:14-9:16
+BFDI Mini Resort 9:47-9:50
+
+Cocont Water
+BFDI Mini Resort 5:02-5:04
+BFDI Mini Resort 5:07
+
+Pearl
+BFDI Mini Resort 6:39-6:42
+
+Radio
+BFDI Mini Resort 10:16
+
 Bugs
 BFDIA 12 9:06-9:13
 BFB 16 15:17
@@ -2160,7 +2198,7 @@ BFDIA 20 4:50
 Fish Monster
 BFDIA 5e 5:12
 BFDIA 11 15:26
-BFDIA 19 8:10-BFDIA 20 21:32 As we see in these two episodes, the fish monster can survive without water for a large amount of time and it is inteligent and can comunicate in it's own language wich can be translated into English by the universal translator. Since the universal translator can translate the fish monster's language into English instantly, this means that both languages have the same word order. When(and if) the Spanish version of this episode is released, the universal translator is stil probably going to translate the fish monster's language into Spanish instantly, so in the Spanish BFDI universe, the fish moster speaks a diffrent language than the one in the English BFDI universe (Assumig that the universal translator will translate the fish monster's language into spanish instantly)
+BFDIA 19 8:10-BFDIA 20 21:32 As we see in these two episodes, the fish monster can survive without water for a large amount of time and it is inteligent and can comunicate in it's own language wich can be translated into English by the universal translator. Since the universal translator can translate the fish monster's language into English instantly, this means that both languages have the same word order. When(and if) the Spanish version of this episode is released, the universal translator is  probably going to translate the fish monster's language into Spanish instantly, so in the Spanish BFDI universe, the fish moster speaks a diffrent language than the one in the English BFDI universe (Assumig that the universal translator will translate the fish monster's language into spanish instantly)
 BFDIA 19 8:38
 BFDIA 19 8:45-8:49
 BFDIA 19 9:10

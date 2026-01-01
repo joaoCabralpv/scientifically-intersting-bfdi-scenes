@@ -460,6 +460,11 @@ TPOT 17 30:51-31:06
 BFDI Mini Natural 6:08-6:44
 TPOT 19 16:19-16:40
 TPOT 19 17:12-17:16
+BFDI Mini Resort 2:12-2:15
+BFDI Mini Resort 3:37-4:12  P(camera)
+BFDI Mini Resort 6:11-6:14/6:39-6:42
+BFDI Mini Resort 9:56-10:43
+
 
 Recovery centers
 BFDIA 22 12:03-12:07

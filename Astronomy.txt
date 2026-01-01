@@ -135,3 +135,6 @@ TPOT 17 24:21-24:25
 BFDI Mini Natural 6:22-6:28
 BFDI Mini Natural 6:46-6:54
 TPOT 19 32:52-33:36
+BFDI Mini Resort 5:51-6:46
+BFDI Mini Resort 9:38-9:47
+BFDI Mini Resort 9:47-9:50

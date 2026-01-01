@@ -235,6 +235,7 @@ TPOT 15 5:04
 TPOT 15 9:17-9:21
 BFDI Mini Replicas 2:29-2:31
 TPOT 19 27:02-27:07
+BFDI Mini Resort 1:52-1:55
 
 Gravity (This section has scenes that can be used to understand gravity works)
 BFDI 1a 1:04-1:05→ Pin pushes Blocky and goes beyond the horizon 
@@ -458,7 +459,7 @@ BFDI 14 0:13-0:21
 BFDI 14 1:33-1:34
 BFDI 14 1:40-1:44
 BFDI 14 3:48-3:49
-BFDI 14 3:45T he sand floats until Anouncer says "go". Also, I don't think the area of sand we see here is preserved between frames afters the sand starts falling
+BFDI 14 3:45 The sand floats until Anouncer says "go". Also, I don't think the area of sand we see here is preserved between frames afters the sand starts falling
 BFDI 14 3:42 Bread
 BFDI 14 3:55 Bread
 BFDI 14 3:59 Bread
@@ -3069,3 +3070,8 @@ TPOT 19 27:25-27:28
 TPOT 19 28:26-28:30
 TPOT 19 25:19
 TPOT 19 35:52-36:03
+BFDI Mini Resort 0:18-0:27
+I am going to stop adding to this list unless it is significant
+BFDI Mini Resort 3:04-3:07
+BFDI Mini Resort 3:50-3:54/4:02-4:04
+BFDI Mini Resort 9:56-10:43

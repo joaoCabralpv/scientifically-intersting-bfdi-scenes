@@ -110,7 +110,12 @@ BFDI Mini Replicas 5:19-5:22
 BFDI Mini Natural 2:59-3:03
 BFDI Mini Natural 3:54-3:57
 TPOT 19 2:35-2:44
-
+BFDI Mini Resort 0:18-0:20
+BFDI Mini Resort 1:34-1:36
+BFDI Mini Resort 1:46-1:49
+BFDI Mini Resort 2:55-2:57
+BFDI Mini Resort 3:50-3:54/4:02-4:04
+BFDI Mini Resort 5:08-5:14/5:19-5:22
 
 Yoyelite
 BFDIA 7 2:10-2:12
@@ -130,6 +135,7 @@ TPOT 15 15:31 There is no damage in the ground
 TPOT 15 17:52-17:54
 TPOT 15 32:07-32:36
 TPOT 15 37:13-37:27
+
 
 
 
